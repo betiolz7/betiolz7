@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">      ,^`;|:;i;,&#x27;^:!l!i|l!i|ii!i;;;!!i</tspan>
+<tspan x="15" y="50">      :^:{:&#x27;[|:;^ &#x27;^l;ilj;i|iili;;!:l:</tspan>
+<tspan x="15" y="70">      :;j;&#x27;&#x27;|;:,&#x27;l%@MMM`^!l||i|;!!;:l`</tspan>
+<tspan x="15" y="90">      il! &#x27; i;^`kk^|%#{ ii.l|i;;!|:!!^</tspan>
+<tspan x="15" y="110">      j!. &#x27; li ||m%iH@jl:^`;:!;i;l`i,!</tspan>
+<tspan x="15" y="130">     &#x27;|,  `&#x27;i`,M{@@k!ijH[^|;,!;!!i.i;;</tspan>
+<tspan x="15" y="150">      !^    ,:@k[j|{i,||,:!;,;!!l:,!i`</tspan>
+<tspan x="15" y="170">      &#x27;  &#x27;|k#@H` ;{k{mk|:ii:^!!!l`;:l.</tspan>
+<tspan x="15" y="190">      [#@@@@@@m&#x27;^ ^i;````&#x27;^,^!;!|&#x27;;|!</tspan>
+<tspan x="15" y="210">    l@@@@#%##M@`.,`&#x27;&#x27;     ,:^!;i;&#x27;!j`</tspan>
+<tspan x="15" y="230">   %@km[jM@%#M@@:&#x27;:.:[{H#mm|^;;|&#x27;^i|</tspan>
+<tspan x="15" y="250">  j@kkk{l&#x27;{@HH%@@i |@@@Mkm@;`;;|.:ii</tspan>
+<tspan x="15" y="270">  MmkmH%MH {H[{{%#H@m!l@#il,^:;;.;|^</tspan>
+<tspan x="15" y="290">  H%HHHHmM!^i![MM#M%lkm!,^`.;,i^`!l</tspan>
+<tspan x="15" y="310">  jil{{[jl.:{#@@l|k|:,, ^   ;:|`,!i</tspan>
+<tspan x="15" y="330">  M#jj[{H@@@@#kkm{{|i|!,M@|&#x27;  ` ,!:</tspan>
+<tspan x="15" y="350">  mm{jH@@#H{jkH{i|{[i|! &#x27;|M@@{|^;:&#x27;</tspan>
+<tspan x="15" y="370">    ,,jllj{mm|^`,ijk:^| .  .i[[Hk#&#x27;</tspan>
+<tspan x="15" y="390">    ;[[km{l;&#x27; `::|[Hi;!:``&#x27;^.:!i&#x27;j:</tspan>
+<tspan x="15" y="410">     .:;   .^,,,:i|i;:,:,.&#x27;,:^ ,!:</tspan>
+<tspan x="15" y="430">        &#x27;&#x27;^,,,,,,,,,^:i|&#x27; `,;.`;!:</tspan>
+<tspan x="15" y="450">         ,^^^`^^:;;!{l^   ^:: ,;!`   .</tspan>
+<tspan x="15" y="470">         ::;ll|j{{{m[&#x27;    ^,` ;,i&#x27;   .</tspan>
+<tspan x="15" y="490">       &#x27;il{%M#kj;.       .;:^,::i    `</tspan>
+<tspan x="15" y="510">          .&#x27;..      .&#x27;   `::::;!:   &#x27;`</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">gabriel@betiol -—————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Windows 10, Linux (Docker)</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">18 anos, 6 meses, 6 dias</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Krolik</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Full-Stack Developer</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VSCode, Visual Studio</tspan></tspan>
+<tspan x="390" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">C#, Python, TypeScript, JS</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, SQL, JSON, YAML</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Português, English</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Quests</tspan><tspan class="cc">.</tspan><tspan class="key">Main</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Full-Stack &amp; SaaS</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Quests</tspan><tspan class="cc">.</tspan><tspan class="key">Side</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Achar o ; que dropou o banco</tspan></tspan>
+<tspan x="390" y="310">- Contact -——————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Ribeirão Preto - SP, Brasil</tspan></tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Founder</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Koda Labs, Grid Company</tspan></tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan><tspan class="cc">.</tspan><tspan class="key">Koda</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@kodalabs.solutions</tspan></tspan>
+<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan><tspan class="cc">.</tspan><tspan class="key">Grid</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">@grid.companybr</tspan></tspan>
+<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">betiolz7</tspan></tspan>
+<tspan x="390" y="450">- GitHub Stats -—————————————————————————————————————-—-</tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">30</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">4</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">66</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">88.812</tspan> ( <tspan class="addColor">+93.609</tspan>, <tspan class="delColor">-4.797</tspan> )</tspan>
+</text>
+</svg>
